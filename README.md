@@ -4,7 +4,7 @@ A simple Python CLI tool that calculates the date after a given number of days f
 
 
 
-# ✨ Features
+# Features
 
 - Shows today's date on startup
 - Calculates future dates from user input
@@ -12,7 +12,7 @@ A simple Python CLI tool that calculates the date after a given number of days f
 - Interactive loop — type `0` to exit
 
 
-# 🚀 Usage
+# Usage
 
 ```bash
 python script.py
@@ -44,7 +44,7 @@ while True:
 ```
 
 <details>
-<summary>📦 Example session</summary>
+<summary>Example session</summary>
 
 ```
 Today's date is 2026-11-11 14:23:45.123456
@@ -73,7 +73,7 @@ Thank you for using the program! TG channel: @pytnproject
 </details>
 
 <details>
-<summary>🧠 How it works</summary>
+<summary>How it works</summary>
 
 1. Gets the current date via `datetime.now()`
 2. Prompts for a number of days
